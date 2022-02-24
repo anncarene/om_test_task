@@ -1,0 +1,6 @@
+.read_more .arrow {
+	transition-property: transform;
+}
+.read_more .arrow.inversed {
+	transform: rotate(-135deg);
+}

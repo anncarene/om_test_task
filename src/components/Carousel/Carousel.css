@@ -1,0 +1,7 @@
+.carousel-item {
+	transition-property: opacity;
+	opacity: 0 !important;
+}
+.visible {
+	opacity: 1 !important;
+}

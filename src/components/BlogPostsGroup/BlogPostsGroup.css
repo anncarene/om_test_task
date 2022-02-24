@@ -1,0 +1,13 @@
+.blogposts a {
+	transition-property: color, background;
+	background: transparent;
+	color: transparent;
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: 12px;
+}
+.blogposts a.appearing {
+	color: #262626;
+	background: #FFF !important;
+}

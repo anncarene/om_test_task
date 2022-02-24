@@ -1,0 +1,22 @@
+/*font*/
+@font-face {
+	font-family: "ProximaNova"; 
+	src: url("static/font/ProximaNova-Light.ttf") format('truetype');
+	font-style: normal;  
+	font-weight: 300;
+}
+@font-face {
+	font-family: "ProximaNova"; 
+	src: url("static/font/ProximaNova-Regular.ttf") format('truetype');
+	font-style: normal;  
+	font-weight: 400;
+}
+@font-face {
+	font-family: "ProximaNova"; 
+	src: url("static/font/ProximaNova-Semibold.ttf") format('truetype');
+	font-style: normal;  
+	font-weight: 600;
+}
+* {
+	font-family: "ProximaNova";
+}
